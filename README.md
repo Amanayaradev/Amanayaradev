@@ -1,4 +1,9 @@
 <div>
+  <p>👋 E aí, pessoal! Sou Amanayara O Slot, uma desenvolvedora Full Stack que adora transformar ideias em realidade através do código, mas também sabe a importância de desligar e aproveitar a vida ao máximo! 💻✈️🎉</p>
+  <p>🌟 Este é meu cantinho para compartilhar projetos, descobertas e um pouco da minha jornada no mundo da programação. Com meus jovens 22 anos, estou apenas começando nessa jornada emocionante! Vamos explorar juntos e criar coisas incríveis! 🚀</p>
+</div>
+</div>
+<div>
   <a href='https://github.com/Amanayaradev'>
   <img height='160em' src='https://github-readme-stats.vercel.app/api?username=Amanayaradev&show_icons=true&theme=omni&count_private=true'>
   <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Amanayaradev&layout=compact&theme=omni'>
