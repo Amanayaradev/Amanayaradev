@@ -1,6 +1,6 @@
 <div>
   <p>👋 E aí, pessoal! Sou Amanayara O Slot, uma desenvolvedora Full Stack que adora transformar ideias em realidade através do código, mas também sabe a importância de desligar e aproveitar a vida ao máximo! 💻✈️🎉</p>
-  <p>🌟 Este é meu cantinho para compartilhar projetos, descobertas e um pouco da minha jornada no mundo da programação. Com meus jovens 22 anos, estou apenas começando nessa jornada emocionante! Vamos explorar juntos e criar coisas incríveis! 🚀</p>
+  <p>🌟 Este é meu cantinho para compartilhar projetos, descobertas e um pouco da minha jornada no mundo da programação. Com meus 23 anos, estou começando nessa jornada emocionante! Vamos explorar juntos e criar coisas incríveis! 🚀</p>
 </div>
 </div>
 <div>
